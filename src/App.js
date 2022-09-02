@@ -1,20 +1,15 @@
 import './App.css';
-import Headerss from './components/header/Headerss';
-import Footers from './components/footer/Footer';
-import Routss from './routerss/Routss';
+import { Roots } from './routerss/Roots';
+import { Route, Router, Routes } from 'react-router-dom'
 
 function App() {
   return (
     <div className='App'>
-      <div>
-        <Headerss />
-      </div>
-      <div>
-        <Routss />
-      </div>
-      <div>
-        <Footers />
-      </div>
+      <Router>
+        <Routes>
+          <Route path='/' element={<Roots />} />
+        </Routes>
+      </Router>
     </div>
   );
 }
