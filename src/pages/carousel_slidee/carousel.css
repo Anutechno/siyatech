@@ -1,0 +1,22 @@
+button.carousel-control-prev {
+  margin-left: -4%;
+}
+button.carousel-control-next {
+  margin-right: -4%;
+}
+span.carousel-control-prev-icon {
+  /* background: aqua; */
+  border-radius: 50%;
+}
+.carousel-control-next-icon, .carousel-control-prev-icon {
+  width: 2.5rem !important;
+  height: 2.5rem !important;
+  background-color: aqua;
+  border-radius: 50%;
+}
+.carousel-control-next-icon:hover, .carousel-control-prev-icon:hover {
+  background-color: #102e59;
+}
+.carotp {
+  padding-top: 101px !important;
+}

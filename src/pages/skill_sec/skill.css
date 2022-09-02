@@ -1,0 +1,129 @@
+#skil {
+  padding-top: 15px !important;
+  padding-bottom: 40px;
+}
+
+.progress-wrap {
+  position: relative;
+  padding-bottom: 25px;
+}
+
+.progress-wrap h3 {
+  text-align: right;
+  font-size: 15px;
+  color: #787878;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.progress-bar {
+  background: #e74c3c;
+  font-size: 13px;
+  line-height: 30px;
+  padding-left: 25px;
+  text-align: left;
+}
+
+.progress .color1,
+.progress .color1 .bar-width {
+  background: #6fdb3f;
+}
+
+.progress {
+  background: #ffffff;
+  border-radius: 0px;
+  box-shadow: none;
+  height: 30px;
+  margin-bottom: 15px;
+}
+
+.progress .bar-width {
+  position: absolute;
+  width: 40px;
+  height: 20px;
+  line-height: 20px;
+  text-align: center;
+  font-size: 12px;
+  font-weight: 700;
+  top: 6px;
+  border-radius: 2px;
+  margin-left: -30px;
+}
+
+.progress .color1 span:before {
+  border-color: #6fdb3f transparent transparent transparent;
+}
+
+.progress span:before {
+  content: ' ';
+  position: absolute;
+  width: auto;
+  height: auto;
+  border-width: 8px 5px;
+  border-style: solid;
+  bottom: -15px;
+  right: 8px;
+}
+
+.progress .color2,
+.progress .color2 .bar-width {
+  background: #ccca0d;
+}
+
+.progress .color2 span:before {
+  border-color: #ccca0d transparent transparent transparent;
+}
+
+.progress .color3,
+.progress .color3 .bar-width {
+  background: #2494f3e6;
+}
+
+.progress .color3 span:before {
+  border-color: #399ff5 transparent transparent transparent;
+}
+
+.progress .color4,
+.progress .color4 .bar-width {
+  background: #cf31e7;
+}
+
+.progress .color4 span:before {
+  border-color: #cf31e7 transparent transparent transparent;
+}
+
+.progress .color5,
+.progress .color5 .bar-width {
+  background: #0bbac0;
+}
+
+.progress .color5 span:before {
+  border-color: #0bbac0 transparent transparent transparent;
+}
+
+.progress .color6,
+.progress .color6 .bar-width {
+  background: #1ff6f6;
+}
+
+.progress .color6 span:before {
+  border-color: #1ff6f6 transparent transparent transparent;
+}
+
+.progress .color7,
+.progress .color7 .bar-width {
+  background: #f50673;
+}
+
+.progress .color7 span:before {
+  border-color: #f50673 transparent transparent transparent;
+}
+
+.progress .color8,
+.progress .color8 .bar-width {
+  background: #319811;
+}
+
+.progress .color8 span:before {
+  border-color: #319811 transparent transparent transparent;
+}

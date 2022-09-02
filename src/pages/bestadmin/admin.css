@@ -1,0 +1,25 @@
+.bdr img {
+  border-radius: 27px;
+}
+
+.lfricn span {
+  padding: 0px 10px;
+}
+
+.lfricn span svg {
+  font-size: 45px;
+  color: #01c0f3;
+}
+span.inn {
+  /* background: aqua; */
+  visibility: hidden;
+}
+.provide {
+  padding-top: 32rem;
+}
+.carousel-inner.bdr {
+  -webkit-box-shadow: 7px 5px 30px rgb(0 192 243 / 30%);
+  box-shadow: 7px 5px 30px rgb(0 192 243 / 30%);
+  border: 1px solid #ddd;
+  border-radius: 25px;
+}
