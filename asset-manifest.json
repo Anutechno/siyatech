@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/%7Bsiyatech%7D/static/css/main.73361f6b.css",
+    "main.js": "/%7Bsiyatech%7D/static/js/main.50864692.js",
+    "index.html": "/%7Bsiyatech%7D/index.html",
+    "main.73361f6b.css.map": "/%7Bsiyatech%7D/static/css/main.73361f6b.css.map",
+    "main.50864692.js.map": "/%7Bsiyatech%7D/static/js/main.50864692.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.73361f6b.css",
+    "static/js/main.50864692.js"
+  ]
+}
